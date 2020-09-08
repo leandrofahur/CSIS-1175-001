@@ -1,0 +1,6 @@
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/bin/Debug/Lec1Demo.exe
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/bin/Debug/Lec1Demo.pdb
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/obj/Debug/Lec1Demo.csprojAssemblyReference.cache
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/obj/Debug/Lec1Demo.csproj.CoreCompileInputs.cache
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/obj/Debug/Lec1Demo.exe
+/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/demos/Lec1Demo/Lec1Demo/obj/Debug/Lec1Demo.pdb
