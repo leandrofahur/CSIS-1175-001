@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\bin\Debug\netcoreapp3.1\Lec2Demo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec2Demo\Lec2Demo\obj\Debug\netcoreapp3.1\Lec2Demo.genruntimeconfig.cache
