@@ -1,0 +1,39 @@
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.genruntimeconfig.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\BBDemos\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.genruntimeconfig.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\bin\Debug\netcoreapp3.1\Lec3Demo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec3_22Sep_LabFiles\Lec3_LabDemos\Lec3Demo\Lec3Demo\obj\Debug\netcoreapp3.1\Lec3Demo.genruntimeconfig.cache
