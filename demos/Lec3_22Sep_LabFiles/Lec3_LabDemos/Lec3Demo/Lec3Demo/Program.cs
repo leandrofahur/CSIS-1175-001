@@ -27,6 +27,10 @@ namespace Lec3Demo
             Write("Enter the faculty: ");
             string faculty = ReadLine();
 
+            WriteLine("Faculty is: " + faculty);
+            WriteLine("Faculty is {0}", faculty);
+            WriteLine("{0}{1}", "Faculty is: ", faculty);
+
             //creating banner output with formatted output
             string asterikLine = new string('*', 64); //create a string by repeat * character 64 times and assign it to variable asterikLine
             WriteLine(asterikLine); //using the defined string variable asterikLine
@@ -52,6 +56,7 @@ namespace Lec3Demo
             
             double average = ((double)grade1 + grade2 + grade3) / 3; // you need to convert at least one to make the whole operation to be a double
 
+            // Composed string format
             WriteLine(asterikLine);
             WriteLine("*{0, 20}: {1, -40}*", "Name", userName1);
             WriteLine("*{0, 20}: {1, -40}*", "Dept", dept);
