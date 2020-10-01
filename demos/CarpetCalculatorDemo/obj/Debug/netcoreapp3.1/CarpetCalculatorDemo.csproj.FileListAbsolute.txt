@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\bin\Debug\netcoreapp3.1\CarpetCalculatorDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\CarpetCalculatorDemo\obj\Debug\netcoreapp3.1\CarpetCalculatorDemo.genruntimeconfig.cache

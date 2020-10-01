@@ -8,7 +8,23 @@ namespace Lec2DemoExercises
     {
         static void Main(string[] args)
         {
-            while(true)
+            //int ans = 0;
+            //int v1 = 10;
+            //int v2 = 19;
+            //ans = v2 % v1++;
+            //Console.WriteLine(ans);
+            //int ans = 10;
+            //int v1 = 5;
+            //int v2 = 7;
+            //int v3 = 18;
+            //ans += v1 + 10*(v2/5) + v3/v2;
+            //Console.WriteLine(ans);
+            //Console.WriteLine(v2/5);
+            //Console.WriteLine(v3/v2);
+            Console.WriteLine("{0:f2}", 86);
+            int _value1 = 0;
+            Console.WriteLine(_value1);
+            while (true)
             {
                 // Simple menu for the user.
                 Console.WriteLine("Choose the demo you want to play by typing the number: ");
