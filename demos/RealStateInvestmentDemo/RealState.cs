@@ -61,10 +61,10 @@ namespace RealStateInvestmentDemo
         {
             return "Street Address: " + Address + "\n"
                      + "Year built: " + Year + "\n"
-                     + "Purchase price: " + PurchasePrice + "\n"
-                     + "Income rent: " + IncomeFromRent + "\n"
-                     + "Montly expense: " + MontlyExpense + "\n"
-                     + "Montly earning: " + MontlyEarnings;
+                     + "Purchase price: " + PurchasePrice.ToString("C") + "\n"
+                     + "Income rent: " + IncomeFromRent.ToString("C") + "\n"
+                     + "Montly expense: " + MontlyExpense.ToString("C") + "\n"
+                     + "Montly earning: " + MontlyEarnings.ToString("C");
         }
     }
 }
