@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\bin\Debug\netcoreapp3.1\RealStateInvestmentDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\RealStateInvestmentDemo\obj\Debug\netcoreapp3.1\RealStateInvestmentDemo.genruntimeconfig.cache

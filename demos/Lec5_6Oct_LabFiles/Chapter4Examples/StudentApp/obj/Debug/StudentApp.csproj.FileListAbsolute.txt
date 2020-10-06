@@ -17,3 +17,10 @@ C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2019\CSIS1175\1175_003\Le
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2019\CSIS1175\1175_003\Lec4\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2019\CSIS1175\1175_003\Lec4\StudentApp\obj\Debug\StudentApp.exe
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2019\CSIS1175\1175_003\Lec4\StudentApp\obj\Debug\StudentApp.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\bin\Debug\StudentApp.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\bin\Debug\StudentApp.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\bin\Debug\StudentApp.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\obj\Debug\StudentApp.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5_6Oct_LabFiles\Chapter4Examples\StudentApp\obj\Debug\StudentApp.pdb

@@ -5,6 +5,8 @@ namespace StudentApp
     public class Student
     {
         //Data members, data fields, or characteristics 
+        // Backing field represents the private daa inside a class
+        // Backing field usually uses the camel case pattern
         private string studentNumber;
         private string studentLastName;
         private string studentFirstName;
