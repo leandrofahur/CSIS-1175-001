@@ -11,3 +11,16 @@ C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5D
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.dll
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.pdb
 C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.genruntimeconfig.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\bin\Debug\netcoreapp3.1\RealEstInvest.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec5Demos\RealEstInvest\RealEstInvest\obj\Debug\netcoreapp3.1\RealEstInvest.genruntimeconfig.cache
