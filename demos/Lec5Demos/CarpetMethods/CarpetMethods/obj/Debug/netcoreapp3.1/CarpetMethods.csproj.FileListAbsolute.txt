@@ -1,0 +1,13 @@
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\bin\Debug\netcoreapp3.1\CarpetMethods.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec5Demos\CarpetMethods\CarpetMethods\obj\Debug\netcoreapp3.1\CarpetMethods.genruntimeconfig.cache

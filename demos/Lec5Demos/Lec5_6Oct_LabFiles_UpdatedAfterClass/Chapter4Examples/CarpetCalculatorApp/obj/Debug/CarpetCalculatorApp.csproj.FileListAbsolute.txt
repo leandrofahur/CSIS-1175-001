@@ -1,0 +1,12 @@
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\bin\Debug\CarpetCalculatorApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch04\Ch04_Examples\CarpetCalculatorApp\obj\Debug\CarpetCalculatorApp.csprojResolveAssemblyReference.cache
