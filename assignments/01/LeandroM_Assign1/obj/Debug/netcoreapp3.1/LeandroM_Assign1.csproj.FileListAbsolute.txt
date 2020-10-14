@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\bin\Debug\netcoreapp3.1\LeandroM_Assign1.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\01\LeandroM_Assign1\obj\Debug\netcoreapp3.1\LeandroM_Assign1.genruntimeconfig.cache

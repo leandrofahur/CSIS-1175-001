@@ -1,0 +1,13 @@
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\bin\Debug\netcoreapp3.1\ConditionalsWhileDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradesDemo\ConditionalsWhileDemo\obj\Debug\netcoreapp3.1\ConditionalsWhileDemo.genruntimeconfig.cache

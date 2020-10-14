@@ -1,0 +1,13 @@
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\bin\Debug\netcoreapp3.1\ConditionalsDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Demos\Lec6Demos\GradeDemo\GradeDemo\obj\Debug\netcoreapp3.1\ConditionalsDemo.genruntimeconfig.cache
