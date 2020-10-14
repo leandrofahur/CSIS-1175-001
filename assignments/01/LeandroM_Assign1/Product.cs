@@ -82,13 +82,14 @@ namespace LeandroM_Assign1
             // String format from this documentation: (the link provide on the assignment was broken)
             // https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
             // .ToString("C") adds th currency
-            string strFormated = String.Format("Product information:\n" 
-                                               + "Name: {0}\n"
-                                               + "Price per unit: {1:F2}\n"
-                                               + "Quantity: {2}\n"
-                                               + "Total before tax: {3:F2}\n"
-                                               + "Tax: {4:F2}\n"
-                                               + "Total after tax: {5:F2}\n"
+            // string asteriskLine = new string('*', 40);
+            string strFormated = String.Format( 
+                                               "* Name: {0,-30} *\n"
+                                               + "* Price per unit: {1,-20:F2} *\n"
+                                               + "* Quantity: {2, -26} *\n"
+                                               + "* Total before tax: {3,-18:F2} *\n"
+                                               + "* Tax: {4,-31:F2} *\n"
+                                               + "* Total after tax: {5,-19:F2} *\n"                                               
                                                , ProductName
                                                , PricePerUnit.ToString("C")
                                                , Quantity
