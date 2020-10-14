@@ -81,6 +81,7 @@ namespace LeandroM_Assign1
         {
             // String format from this documentation: (the link provide on the assignment was broken)
             // https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
+            // .ToString("C") adds th currency
             string strFormated = String.Format("Product information:\n" 
                                                + "Name: {0}\n"
                                                + "Price per unit: {1:F2}\n"

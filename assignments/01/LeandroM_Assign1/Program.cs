@@ -7,28 +7,36 @@ namespace LeandroM_Assign1
     {
         static void Main(string[] args)
         {
+            // initialize the object with the product name and the price per unit
             Product p1 = new Product("earphone", 250.00);
             Product p2 = new Product("celphone", 1150.00);
             Product p3 = new Product("tablet", 990.00);
 
+            // display some greeting to the client
             WriteLine("Welcome to myStore product ordering system!");
             WriteLine("You can place orders from three different products!");
             WriteLine();
+
+            // update the product quantity for all three products
             UpdateProductQty(p1);
             UpdateProductQty(p2);
             UpdateProductQty(p3);
             WriteLine();
+
+            // take one out of three actions
             ChooseAction(p1, p2, p3);
         }
+
         // this method receive the product as a reference and change the quantity inside the object
         static void UpdateProductQty(Product product)
         {
-            // Clear the console window:
+            // Clear the console window
             // Clear();
             Write("Please, insert the number of {0} units: ", product.ProductName);
             product.Quantity = int.Parse(ReadLine());
         }
-        // this method calls other methods using if-else
+
+        // this method calls 2 other methods or exit the application using if-else
         static void ChooseAction(Product p1, Product p2, Product p3)
         {
             WriteLine("What would you like to do?");
@@ -58,12 +66,14 @@ namespace LeandroM_Assign1
                 ChooseAction(p1, p2, p3);
             }
         }
+
         // this method calls other methods, and display the order details to the consumer
         static void ViewCart(Product p1, Product p2, Product p3)
         {
             WriteLine();
             GetCartTotalSummary(p1, p2, p3, out double totalBeforeDiscount, out double discountAmount);
 
+            // call the ToString() overrided inside the class product for each and every product
             WriteLine(p1);
             WriteLine();
             WriteLine(p2);
@@ -79,6 +89,10 @@ namespace LeandroM_Assign1
             WriteLine("What product would you like to update the quantity?");
             Write("Press 1 for {0}, Press 2 for {1}, Press 3 for {2}: ", p1.ProductName, p2.ProductName, p3.ProductName);
             int numberChoice = int.Parse(ReadLine());
+        
+            // each block store in a variable the old product qty., update the product qty. and then display the change for the user
+            //
+            //
             if (numberChoice == 1)
             {
                 WriteLine();
