@@ -91,8 +91,8 @@ namespace LeandroM_Assign1
         // this method calls other methods, and display the order details to the consumer
         static void ViewCart(Product p1, Product p2, Product p3)
         {
-            WriteLine();
-            GetCartTotalSummary(p1, p2, p3, out double totalBeforeDiscount, out double discountAmount);
+            //WriteLine();
+            double totalAfterDiscount = GetCartTotalSummary(p1, p2, p3, out double totalBeforeDiscount, out double discountAmount);
 
             // call the ToString() overrided inside the class product for each and every product
             // creates a line of 40 '*' characteres
@@ -107,6 +107,13 @@ namespace LeandroM_Assign1
             WriteLine(p2);
             WriteLine(line);
             WriteLine(p3);
+            WriteLine(line);
+            WriteLine("* Total Before Discount: {0,-13:F2} *\n"
+                       + "* Discount: {1,-26:F2} *\n"
+                       + "* Total After Discount: {2, -14:F2} *",
+                       totalBeforeDiscount.ToString("C"),
+                       discountAmount.ToString("C"),
+                       totalAfterDiscount.ToString("C"));
             WriteLine(asteriskLine);
 
             WriteLine();
@@ -180,7 +187,7 @@ namespace LeandroM_Assign1
             // check if the value is greater or equal to $100.00, apply discount and return the totalAfterDiscount variable 
             if(totalBeforeDiscount >= 100.00)
             {
-                discountAmount = totalBeforeDiscount - 0.1*totalBeforeDiscount;
+                discountAmount = 0.1*totalBeforeDiscount;
                 totalAfterDiscount = totalBeforeDiscount - discountAmount;
                 return totalAfterDiscount;
             }

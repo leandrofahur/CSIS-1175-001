@@ -89,7 +89,7 @@ namespace LeandroM_Assign1
                                                + "* Quantity: {2, -26} *\n"
                                                + "* Total before tax: {3,-18:F2} *\n"
                                                + "* Tax: {4,-31:F2} *\n"
-                                               + "* Total after tax: {5,-19:F2} *\n"                                               
+                                               + "* Total after tax: {5,-19:F2} *"                                               
                                                , ProductName
                                                , PricePerUnit.ToString("C")
                                                , Quantity
