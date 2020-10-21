@@ -7,10 +7,11 @@ namespace TicketingApp
     {
         public static void Main(string[] args)
         {
+            string ticketAcc = "";
             bool keepRunning = true;
             while(keepRunning)
             {
-                Console.WriteLine("Do you have any ticket to enter?");
+                Console.WriteLine("\nDo you have any ticket to enter?");
                 Console.Write("Press y/n: ");
 
                 char choice = char.Parse(Console.ReadLine());
@@ -21,11 +22,14 @@ namespace TicketingApp
                     GetTicketDetails(out string studentId, out char studentCat, out int speedLimit, out int speedReported);
                     Ticket ticket = new Ticket(studentId, studentCat, speedLimit, speedReported);
                     Console.WriteLine(ticket);
+                    ticketAcc += ticket.ToString() + "\n\n";
                 }
                 else
                 {
                     Console.Clear();
                     Console.WriteLine("Leaving the application...");
+                    Console.Write("\n");
+                    Console.WriteLine(ticketAcc);
                     keepRunning = false;
                 }
             }

@@ -130,7 +130,7 @@ namespace TicketingApp
                  + "Speed Reported: {3}\n"
                  + "Fine: {4:C}",
                  StudentId,
-                 StudentCategory,
+                 CategoryName,
                  SpeedLimit,
                  SpeedReported,
                  Fine);
