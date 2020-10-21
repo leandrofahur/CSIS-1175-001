@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\bin\Debug\netcoreapp3.1\TicketingApp.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\TicketingApp\obj\Debug\netcoreapp3.1\TicketingApp.genruntimeconfig.cache
