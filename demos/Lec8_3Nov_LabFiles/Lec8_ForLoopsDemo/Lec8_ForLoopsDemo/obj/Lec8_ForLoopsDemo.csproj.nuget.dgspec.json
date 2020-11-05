@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec8_3Nov_LabFiles\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec8_3Nov_LabFiles\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec8_3Nov_LabFiles\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo.csproj",
+        "projectName": "Lec8_ForLoopsDemo",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec8_3Nov_LabFiles\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo.csproj",
+        "packagesPath": "C:\\Users\\leandromachado\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec8_3Nov_LabFiles\\Lec8_ForLoopsDemo\\Lec8_ForLoopsDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandromachado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

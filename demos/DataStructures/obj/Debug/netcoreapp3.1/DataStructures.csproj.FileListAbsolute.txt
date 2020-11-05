@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache

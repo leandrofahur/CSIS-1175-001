@@ -1,0 +1,29 @@
+U:\kandhadaip\W20\1175_003\Demos\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.csprojAssemblyReference.cache
+U:\kandhadaip\W20\1175_003\Demos\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfoInputs.cache
+U:\kandhadaip\W20\1175_003\Demos\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec8\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.genruntimeconfig.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\bin\Debug\netcoreapp3.0\Lec8_Arrays.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec8_3Nov_LabFiles\Lec8_Arrays\Lec8_Arrays\obj\Debug\netcoreapp3.0\Lec8_Arrays.genruntimeconfig.cache

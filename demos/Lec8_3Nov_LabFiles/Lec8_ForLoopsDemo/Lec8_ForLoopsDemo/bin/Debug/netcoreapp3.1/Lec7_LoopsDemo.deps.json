@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lec7_LoopsDemo/1.0.0": {
+        "runtime": {
+          "Lec7_LoopsDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec7_LoopsDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
