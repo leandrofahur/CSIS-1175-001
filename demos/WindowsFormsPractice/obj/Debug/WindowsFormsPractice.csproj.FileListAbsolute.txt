@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Form1.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Properties.Resources.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.pdb

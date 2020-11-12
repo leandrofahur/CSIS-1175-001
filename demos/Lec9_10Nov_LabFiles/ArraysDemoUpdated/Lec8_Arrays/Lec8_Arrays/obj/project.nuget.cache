@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiekVdfQwoBNGbxcU3rUQoW2jEDgTTbZyZdVx2wJ340PEvkq54m0m9OKxB4h35sH/kYF3X0nMQWVVxEk8DosFA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ArraysDemoUpdated\\Lec8_Arrays\\Lec8_Arrays\\Lec8_Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.0.3\\microsoft.netcore.app.host.win-x86.3.0.3.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.genruntimeconfig.cache

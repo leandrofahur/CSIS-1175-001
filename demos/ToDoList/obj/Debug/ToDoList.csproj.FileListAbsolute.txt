@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\bin\Debug\ToDoList.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\bin\Debug\ToDoList.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\bin\Debug\ToDoList.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.Form1.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ToDoList\obj\Debug\ToDoList.pdb

@@ -1,0 +1,26 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.genruntimeconfig.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.exe
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\bin\Debug\netcoreapp3.1\PracticeArrays.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Other\StudentDemos\Leandro\Round2\PracticeArrays\obj\Debug\netcoreapp3.1\PracticeArrays.genruntimeconfig.cache

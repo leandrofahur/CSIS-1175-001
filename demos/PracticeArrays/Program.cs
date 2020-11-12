@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using static System.Console;
 
@@ -10,48 +12,51 @@ namespace PracticeArrays
 
         static void Main(string[] args)
         {
-            Write("Enter the number of students: ");
-            int numberOfStudents;
-            while (!int.TryParse(ReadLine(), out numberOfStudents) || numberOfStudents <= 0)
+            Write("Please, enter the number of students: ");
+            int numberOfStudents = 0;
+            while (!int.TryParse(ReadLine(), out numberOfStudents) || numberOfStudents < 0)
             {
-                Write("Please, re-enter an integer > 0: ");
+                Write("It should be an integer > 0! Please, re-enter the number of students: ");
             }
 
-            Student[] students = new Student[numberOfStudents];
-
-            for (int i = 0; i <= numberOfStudents; i++)
+            Write("Please, enter the number of grades: ");
+            int numberOfGrades = 0;
+            while(!int.TryParse(ReadLine(), out numberOfGrades) || numberOfGrades < 0)
             {
-                Write("Enter the number of grades: ");
-                int numberOfGrades;
-                while (!int.TryParse(ReadLine(), out numberOfGrades) || numberOfGrades <= 0)
-                {
-                    Write("Please, re-enter an integer > 0: ");
-                }
-
-                double[] grades = new double[numberOfGrades];
-                LoadGrades(grades);
-
-                students[i] = new Student(i.ToString());
-                students[i].UploadGrades(grades);
-                students[i].DisplayGrades();
-                Write("\n\n");
+                Write("It should be an integer > 0! Please, re-enter the number of grades: ");
             }
 
-            // Student student = new Student("1");
-            // student.UploadGrades(grades);
-            // student.DisplayGrades();
-        }
-        static void LoadGrades(double[] array)
-        {
-            Write("Enter a grade between 0.00 and 100.00 (included): ");
-            double grade;
-            for (int i = 0; i < array.Length; i++)
+            ArrayList studentArrayList = new ArrayList();
+            List<Student> studentList = new List<Student>();
+
+            double[] grades = new double[numberOfGrades];
+
+            // This loop will insert the grades for each student:
+            for (int i = 0; i < numberOfStudents; i++)
             {
-                while(!double.TryParse(ReadLine(), out grade) || grade < 0 || grade > 100)
+
+                WriteLine("Student number " + i);
+
+                for (int j = 0; j < numberOfGrades; j++)
                 {
-                    Write("Please, re-enter an double >= 0 or <= 100: ");
+                    Write("Please, enter " + numberOfGrades + " grades: ");
+                    double grade;
+                    while (!double.TryParse(ReadLine(), out grade) || grade < 0 || grade > 100)
+                    {
+                        Write("It should be a double >= 0 or <= 100! Please, re-enter the grade: ");
+                    }
+
+                    grades[j] = grade;
                 }
-                array[i] = grade;
+
+                // Populate the ArrayList and the List<Student>
+                studentArrayList.Add(new Student(i.ToString(), i.ToString(), grades));
+                studentList.Add(new Student(i.ToString(), i.ToString(), grades));
+            }
+            
+            foreach(Object obj in studentList)
+            {
+                WriteLine(obj);
             }
         }
     }

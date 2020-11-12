@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\ExceptionDemo.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\ExceptionDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\ExceptionDemo.csproj",
+        "projectName": "ExceptionDemo",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\ExceptionDemo.csproj",
+        "packagesPath": "C:\\Users\\leandromachado\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandromachado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

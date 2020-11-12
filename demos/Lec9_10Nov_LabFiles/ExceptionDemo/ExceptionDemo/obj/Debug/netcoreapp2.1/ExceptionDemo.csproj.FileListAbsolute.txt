@@ -1,0 +1,55 @@
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.deps.json
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.json
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.dev.json
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.dll
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.pdb
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csprojAssemblyReference.cache
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfoInputs.cache
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfo.cs
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.dll
+U:\kandhadaip\F19\CSIS1175\Lec10Demos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_3\Lec\Lec9\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Winter2020\C1175_4\Lec9\Lec9_19Mar_LabDemos\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csprojAssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.dll
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DouglasCollege\Fall2020\1175_001_T\Lec\Lec9\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.genruntimeconfig.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.deps.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\netcoreapp2.1\ExceptionDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.AssemblyInfo.cs
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.dll
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\Lec9_10Nov_LabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\netcoreapp2.1\ExceptionDemo.genruntimeconfig.cache

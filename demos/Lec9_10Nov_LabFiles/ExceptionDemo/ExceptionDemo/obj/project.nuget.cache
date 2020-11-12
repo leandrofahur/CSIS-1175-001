@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6iHHYnBZZ/p5twRn67KT/vq3FkPM4KrljbDZmd63PPsLw6uM72QCVZxhw98sXH/f1te/OZDI0zQ4aXP90gmBw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\demos\\Lec9_10Nov_LabFiles\\ExceptionDemo\\ExceptionDemo\\ExceptionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\leandromachado\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
