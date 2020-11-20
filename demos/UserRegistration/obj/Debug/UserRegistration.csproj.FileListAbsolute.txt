@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\bin\Debug\UserRegistration.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\bin\Debug\UserRegistration.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\bin\Debug\UserRegistration.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.Form1.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.Properties.Resources.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\UserRegistration\obj\Debug\UserRegistration.pdb

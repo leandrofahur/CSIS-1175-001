@@ -1,0 +1,10 @@
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\bin\Debug\UserWindowsFormsApp.exe.config
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\bin\Debug\UserWindowsFormsApp.exe
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\bin\Debug\UserWindowsFormsApp.pdb
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.Form1.resources
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.Properties.Resources.resources
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.exe
+C:\Users\globo\Documents\CSIS 1175\UserWindowsFormsApp\UserWindowsFormsApp\obj\Debug\UserWindowsFormsApp.pdb

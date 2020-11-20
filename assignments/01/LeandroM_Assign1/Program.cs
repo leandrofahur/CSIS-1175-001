@@ -46,45 +46,34 @@ namespace LeandroM_Assign1
             Write("Press 1 for View Cart, ");
             Write("Press 2 for Update Order, ");
             Write("Press 3 for Quitting the Application: ");
-            // set the number choice for one that is not used for the if-else
-            int numberChoice = -1;
-            bool isNumber = int.TryParse(ReadLine(), out numberChoice);
-            if(isNumber == true)
+            
+            // set the number choice to use for the while-loop validation 
+            int numberChoice;
+            while(!int.TryParse(ReadLine(), out numberChoice) || numberChoice < 1 || numberChoice > 3 )
             {
-                if (numberChoice == 1)
-                {
-                    //WriteLine();
-                    // Clear the console window
-                    //Clear();
-                    WriteLine("Let's view what we have in the cart so far...");
-                    ViewCart(p1, p2, p3);
-                }
-                else if (numberChoice == 2)
-                {
-                    WriteLine();
-                    UpdateCart(p1, p2, p3);
-                }
-                else if (numberChoice == 3)
-                {
-                    // Clear the console window
-                    Clear();
-                    WriteLine("Thank you for placing an order with us. Good Bye!");
-                    return;
-                }
-                else
-                {
-                    // if the user doesn't insert the number 1, 2 or 3 it will return to the choose action menu
-                    WriteLine();
-                    WriteLine("Please, insert one of the valid numbers!");
-                    ChooseAction(p1, p2, p3);
-                }
-            }
-            else
-            {
-                // if the user doesn't insert a number, it will return to the choose action menu
+                // if the user doesn't insert the number 1, 2 or 3 it will be forever in this while-loop
                 WriteLine();
                 WriteLine("Please, insert one of the valid numbers!");
-                ChooseAction(p1, p2, p3);
+            }
+            
+            if (numberChoice == 1)
+            {
+                //WriteLine();
+                // Clear the console window
+                //Clear();
+                WriteLine("Let's view what we have in the cart so far...");
+                ViewCart(p1, p2, p3);
+            }
+            else if (numberChoice == 2)
+            {
+                WriteLine();
+                UpdateCart(p1, p2, p3);
+            }
+            else if (numberChoice == 3)
+            {
+                // Clear the console window
+                Clear();
+                WriteLine("Thank you for placing an order with us. Good Bye!");
             }
         }
 
@@ -125,57 +114,47 @@ namespace LeandroM_Assign1
         {
             WriteLine("What product would you like to update the quantity?");
             Write("Press 1 for {0}, Press 2 for {1}, Press 3 for {2}: ", p1.ProductName, p2.ProductName, p3.ProductName);
-            // set the number choice for one that is not used for the if-else
-            int numberChoice = -1;
-            bool isNumber = int.TryParse(ReadLine(), out numberChoice);
-            if (isNumber == true)
+            // set the number choice to use for the while-loop validation 
+            int numberChoice;
+            while (!int.TryParse(ReadLine(), out numberChoice) || numberChoice < 1 || numberChoice > 3)
             {
-                // each block store in a variable the old product qty., update the product qty. and then display the change for the user
-                if (numberChoice == 1)
-                {
-                    WriteLine();
-                    int oldQuantity = p1.Quantity;
-                    UpdateProductQty(p1);
-                    WriteLine("Quantity updated from {0} units to {1} units.", oldQuantity, p1.Quantity);
-                    WriteLine();
-                    ChooseAction(p1, p2, p3);
-
-                }
-                else if (numberChoice == 2)
-                {
-                    WriteLine();
-                    int oldQuantity = p2.Quantity;
-                    UpdateProductQty(p2);
-                    WriteLine("Quantity updated from {0} units to {1} units.", oldQuantity, p2.Quantity);
-                    WriteLine();
-                    ChooseAction(p1, p2, p3);
-                }
-                else if (numberChoice == 3)
-                {
-                    WriteLine();
-                    int oldQuantity = p3.Quantity;
-                    UpdateProductQty(p3);
-                    WriteLine("Quantity updated from {0} units to {1} units.", oldQuantity, p3.Quantity);
-                    WriteLine();
-                    ChooseAction(p1, p2, p3);
-                }
-                else
-                {
-                    // if the user doesn't insert the number 1, 2 or 3 it will return to the choose action menu
-                    WriteLine();
-                    WriteLine("Please, insert one of the valid numbers!");
-                    ChooseAction(p1, p2, p3);
-                }
-            }
-            else
-            {
-                // if the user doesn't insert a number, it will return to the choose action menu
+                // if the user doesn't insert the number 1, 2 or 3 it will be forever in this while-loop
                 WriteLine();
                 WriteLine("Please, insert one of the valid numbers!");
+            }
+            // each block store in a variable the old product qty., update the product qty. and then display the change for the user
+            if (numberChoice == 1)
+            {
+                WriteLine();
+                int oldQuantity = p1.Quantity;
+                UpdateProductQty(p1);
+                WriteLine("Quantity updated from {0} units to {1} units of {2}", oldQuantity, p1.Quantity, p1.ProductName);
+                WriteLine();
+                ChooseAction(p1, p2, p3);
+
+            }
+            else if (numberChoice == 2)
+            {
+                WriteLine();
+                int oldQuantity = p2.Quantity;
+                UpdateProductQty(p2);
+                WriteLine("Quantity updated from {0} units to {1} units of {2}", oldQuantity, p2.Quantity, p2.ProductName);
+                WriteLine();
                 ChooseAction(p1, p2, p3);
             }
+            else if (numberChoice == 3)
+            {
+                WriteLine();
+                int oldQuantity = p3.Quantity;
+                UpdateProductQty(p3);
+                WriteLine("Quantity updated from {0} units to {1} units of {2}", oldQuantity, p3
+                    .Quantity, p3.ProductName);
+                WriteLine();
+                ChooseAction(p1, p2, p3);
+            }
+            
         }
-
+        
         // this method calculate discount (10% if purchase is over or equal to $100.00)
         static double GetCartTotalSummary(Product p1, Product p2, Product p3, out double totalBeforeDiscount, out double discountAmount)
         {

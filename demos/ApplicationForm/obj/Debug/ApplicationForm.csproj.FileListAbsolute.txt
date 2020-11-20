@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\bin\Debug\ApplicationForm.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\bin\Debug\ApplicationForm.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\bin\Debug\ApplicationForm.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.Form1.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.Properties.Resources.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\demos\ApplicationForm\obj\Debug\ApplicationForm.pdb

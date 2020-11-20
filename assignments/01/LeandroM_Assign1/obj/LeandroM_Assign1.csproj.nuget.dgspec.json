@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\assignments\\01\\LeandroM_Assign1\\LeandroM_Assign1.csproj": {}
+    "/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/assignments/01/LeandroM_Assign1/LeandroM_Assign1.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\assignments\\01\\LeandroM_Assign1\\LeandroM_Assign1.csproj": {
+    "/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/assignments/01/LeandroM_Assign1/LeandroM_Assign1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\assignments\\01\\LeandroM_Assign1\\LeandroM_Assign1.csproj",
+        "projectUniqueName": "/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/assignments/01/LeandroM_Assign1/LeandroM_Assign1.csproj",
         "projectName": "LeandroM_Assign1",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\assignments\\01\\LeandroM_Assign1\\LeandroM_Assign1.csproj",
-        "packagesPath": "C:\\Users\\leandromachado\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\leandro\\douglas college\\CSIS-1175-001\\assignments\\01\\LeandroM_Assign1\\obj\\",
+        "projectPath": "/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/assignments/01/LeandroM_Assign1/LeandroM_Assign1.csproj",
+        "packagesPath": "/Users/leandromachado/.nuget/packages/",
+        "outputPath": "/Users/leandromachado/Desktop/leandro/douglas college/CSIS-1175-001/assignments/01/LeandroM_Assign1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leandromachado\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/leandromachado/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }
