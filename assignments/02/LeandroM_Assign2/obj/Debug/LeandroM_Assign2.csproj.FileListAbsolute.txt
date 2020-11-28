@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\bin\Debug\LeandroM_Assign2.exe.config
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\bin\Debug\LeandroM_Assign2.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\bin\Debug\LeandroM_Assign2.pdb
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.Form1.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.Properties.Resources.resources
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.exe
+\\Mac\Home\Desktop\leandro\douglas college\CSIS-1175-001\assignments\02\LeandroM_Assign2\obj\Debug\LeandroM_Assign2.pdb
