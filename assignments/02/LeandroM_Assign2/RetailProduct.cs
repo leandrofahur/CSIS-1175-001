@@ -83,14 +83,16 @@ namespace LeandroM_Assign2
 
         public override string ToString()
         {
-            return string.Format("{0,-12}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6:C}",
+            return string.Format("{0,-12}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6,-10:C}\t{7,-10}\t{8:C}",
                                  ProductCode,
                                  ProductName,
                                  StartingQty,
                                  MinQty,
                                  SoldQty,
                                  RestockedQty, 
-                                 UnitPrice);
+                                 UnitPrice,
+                                 AvailableQty,
+                                 Sales);
         }
     }
 }

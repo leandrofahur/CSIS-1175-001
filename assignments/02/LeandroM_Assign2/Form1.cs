@@ -55,7 +55,7 @@ namespace LeandroM_Assign2
                         } 
                         else
                         {
-                            string headLine = string.Format("{0,-12}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6:C}", token[0], token[1], token[2], token[3], token[4], token[5], token[6]);
+                            string headLine = string.Format("{0,-10}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6,-10:C}\t{7,-10}\t{8:C}", token[0], token[1], token[2], token[3], token[4], token[5], token[6], "Available Qty", "Sales");
                             retailStockListBox.Items.Add(headLine);
                             isHeadline = false;
                         }
