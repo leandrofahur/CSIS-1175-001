@@ -49,16 +49,12 @@ namespace LeandroM_Assign2
                         // the first iteration will give the headline:
                         if(!isHeadline)
                         {
-                            //RetailProduct retailProduct = new RetailProduct(token[0], token[1], int.Parse(token[2]), int.Parse(token[3]), int.Parse(token[4]), int.Parse(token[5]), double.Parse(token[6]));
-                            //retailStockListBox.Items.Add(retailProduct);
-                            //retailProductList.Add(retailProduct);
-
-                            //string row = string.Format("{0,12}{1,16}{2,30}{3,35}{4,40}{5,45}{6}", token[0], token[1], token[2], token[3], token[4], token[5], token[6]);
-                            string row = string.Format("{0,-12}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6:C}", token[0], token[1], token[2], token[3], token[4], token[5], token[6]);
-                            retailStockListBox.Items.Add(row);
-                        } else
+                            RetailProduct retailProduct = new RetailProduct(token[0], token[1], int.Parse(token[2]), int.Parse(token[3]), int.Parse(token[4]), int.Parse(token[5]), double.Parse(token[6]));
+                            retailStockListBox.Items.Add(retailProduct);
+                            retailProductList.Add(retailProduct);
+                        } 
+                        else
                         {
-                            //string headLine = string.Format("{0,12}{1,16}{2,30}{3,35}{4,40}{5,45}{6}", token[0], token[1], token[2], token[3], token[4], token[5], token[6]);
                             string headLine = string.Format("{0,-12}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6:C}", token[0], token[1], token[2], token[3], token[4], token[5], token[6]);
                             retailStockListBox.Items.Add(headLine);
                             isHeadline = false;
