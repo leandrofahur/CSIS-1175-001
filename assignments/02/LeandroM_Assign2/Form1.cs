@@ -20,8 +20,10 @@ namespace LeandroM_Assign2
         // this class updates the listbox based on the list:
         private void UpdateListBox()
         {
-            //retailStockListBox.Items.Clear();
-            retailStockListBox.BeginUpdate();
+            // clear previous items
+            retailStockListBox.Items.Clear();
+            string headLine = string.Format("{0,-10}\t{1,-16}\t{2,-10}\t{3,-10}\t{4,-10}\t{5,-10}\t{6,-10:C}\t{7,-10}\t{8:C}", "Product Code", "Product Name", "Starting Qty", "Min Qty", "Sold Qty", "Restocked Qty", "Unit Price", "Available Qty", "Sales");
+            retailStockListBox.Items.Add(headLine);
             foreach (RetailProduct retailProduct in retailProductList)
             {
                 retailStockListBox.Items.Add(retailProduct);
