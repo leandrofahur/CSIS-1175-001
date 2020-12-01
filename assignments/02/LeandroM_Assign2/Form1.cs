@@ -16,7 +16,7 @@ namespace LeandroM_Assign2
         // List of RetailProduct to keep track to read and write from file and display in the listbox:
         private List<RetailProduct> retailProductList = new List<RetailProduct>();
 
-        // Utilities class:
+        // Utilities classes:
         // this class updates the listbox based on the list:
         private void UpdateListBox()
         {
@@ -112,7 +112,7 @@ namespace LeandroM_Assign2
         {
             if(retailStockListBox.SelectedIndex <= 0)
             {
-                statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                // statusLabel.Font = new Font("Microsoft Sans Serif", 12);
                 statusLabel.Text = "Please select a retail product item to increment sold qty";
             }
             else
@@ -124,13 +124,13 @@ namespace LeandroM_Assign2
                 int.TryParse(soldQtyTextBox.Text, out soldQty);
                 if(soldQty <= 0 || soldQty > retailProductList[index].AvailableQty)
                 {
-                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                    // statusLabel.Font = new Font("Microsoft Sans Serif", 10);
                     statusLabel.Text = "Please reenter an integer sold qty > 0 and less than available qty";
                 }
                 else
                 {
                     retailProductList[index].SoldQty = soldQty;
-                    statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                    // statusLabel.Font = new Font("Microsoft Sans Serif", 12);
                     statusLabel.Text = "Incremented Sold Qty for Item with Product Code " + retailProductList[index].ProductCode;                    
                     UpdateListBox();
                 }
@@ -141,7 +141,7 @@ namespace LeandroM_Assign2
         {
             if (retailStockListBox.SelectedIndex <= 0)
             {
-                statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                // statusLabel.Font = new Font("Microsoft Sans Serif", 10);
                 statusLabel.Text = "Please select a retail product item to increment restokced qty";
             }
             else
@@ -153,13 +153,13 @@ namespace LeandroM_Assign2
                 int.TryParse(restockedQtyTextBox.Text, out restockedQty);
                 if (restockedQty <= 0 )
                 {
-                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                    // statusLabel.Font = new Font("Microsoft Sans Serif", 10);
                     statusLabel.Text = "Please reenter an integer restocked qty > 0 and less than available qty";
                 }
                 else
                 {
                     retailProductList[index].RestockedQty = restockedQty;
-                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                    // statusLabel.Font = new Font("Microsoft Sans Serif", 10);
                     statusLabel.Text = "Incremented Restocked Qty for Item with Product Code " + retailProductList[index].ProductCode;
                     UpdateListBox();
                 }
@@ -170,17 +170,60 @@ namespace LeandroM_Assign2
         {
             if (retailStockListBox.SelectedIndex <= 0)
             {
-                statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                // statusLabel.Font = new Font("Microsoft Sans Serif", 12);
                 statusLabel.Text = "Please select a retail product item to delete";
             }
             else
             {
                 // for simplicity, the mapping between the index on the listbox and the list is done here:
                 int index = retailStockListBox.SelectedIndex - 1;
-                statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                // statusLabel.Font = new Font("Microsoft Sans Serif", 12);
                 statusLabel.Text = "Deleted Item with Product Code " + retailProductList[index].ProductCode;
                 retailProductList.RemoveAt(index);
                 UpdateListBox();
+            }
+        }
+
+        private void sortButton_Click(object sender, EventArgs e)
+        {
+            // sort by ascending:
+            retailProductList.Sort((x, y) => x.Sales.CompareTo(y.Sales));
+            // revert to create the descending:
+            retailProductList.Reverse();
+
+            // statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+            statusLabel.Text = "List Sorted in Descending Order of Sales";
+            UpdateListBox();
+        }
+
+        private void saveRetailStockDataButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // create the streamer and write the file in the folder /bin/debug
+                using (StreamWriter streamWriter = new StreamWriter("retailStock_output.csv"))
+                {
+                    // create the headline for the output file:
+                    string headLine = string.Format("{0},{1},{2},{3},{4},{5},{6}", "Product Code", "Product Name", "Starting Qty", "Min Qty", "Sold Qty", "Restocked Qty", "Unit Price");
+                    streamWriter.WriteLine(headLine);
+                    foreach (RetailProduct retailProduct in retailProductList)
+                    {
+                        // configure the row with a comma separated way:
+                        string row = string.Format("{0},{1},{2},{3},{4},{5},{6}", retailProduct.ProductCode, retailProduct.ProductName, retailProduct.StartingQty, retailProduct.MinQty, retailProduct.SoldQty, retailProduct.RestockedQty, retailProduct.UnitPrice);
+                        streamWriter.WriteLine(row);
+                    }
+                    statusLabel.Text = "Saved " + retailProductList.Count + " records into the output retail stock file";
+                }
+            }
+            catch (IOException ex)
+            {
+                // catch exceptions with the IO 
+                MessageBox.Show("Exception Thrown: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                // generic exception
+                MessageBox.Show("Exception Thrown: " + ex.Message);
             }
         }
     }
