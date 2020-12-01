@@ -155,6 +155,7 @@
             this.updateRestokedQtyButton.TabIndex = 4;
             this.updateRestokedQtyButton.Text = "Update Restocked Qty For Selected Item";
             this.updateRestokedQtyButton.UseVisualStyleBackColor = false;
+            this.updateRestokedQtyButton.Click += new System.EventHandler(this.updateRestokedQtyButton_Click);
             // 
             // updateSoldQtyButton
             // 
@@ -189,6 +190,7 @@
             this.deleteSelectedItemButton.TabIndex = 1;
             this.deleteSelectedItemButton.Text = "Delete Selected Retail Item";
             this.deleteSelectedItemButton.UseVisualStyleBackColor = false;
+            this.deleteSelectedItemButton.Click += new System.EventHandler(this.deleteSelectedItemButton_Click);
             // 
             // saveDataGroupBox
             // 

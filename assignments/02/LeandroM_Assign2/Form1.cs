@@ -110,7 +110,7 @@ namespace LeandroM_Assign2
 
         private void updateSoldQtyButton_Click(object sender, EventArgs e)
         {
-            if(retailStockListBox.SelectedIndex == 0)
+            if(retailStockListBox.SelectedIndex <= 0)
             {
                 statusLabel.Font = new Font("Microsoft Sans Serif", 12);
                 statusLabel.Text = "Please select a retail product item to increment sold qty";
@@ -121,12 +121,10 @@ namespace LeandroM_Assign2
                 int index = retailStockListBox.SelectedIndex - 1;
                 int soldQty;
 
-                statusLabel.Text = index.ToString();
-
                 int.TryParse(soldQtyTextBox.Text, out soldQty);
                 if(soldQty <= 0 || soldQty > retailProductList[index].AvailableQty)
                 {
-                    statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
                     statusLabel.Text = "Please reenter an integer sold qty > 0 and less than available qty";
                 }
                 else
@@ -136,6 +134,53 @@ namespace LeandroM_Assign2
                     statusLabel.Text = "Incremented Sold Qty for Item with Product Code " + retailProductList[index].ProductCode;                    
                     UpdateListBox();
                 }
+            }
+        }
+
+        private void updateRestokedQtyButton_Click(object sender, EventArgs e)
+        {
+            if (retailStockListBox.SelectedIndex <= 0)
+            {
+                statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                statusLabel.Text = "Please select a retail product item to increment restokced qty";
+            }
+            else
+            {
+                // for simplicity, the mapping between the index on the listbox and the list is done here:
+                int index = retailStockListBox.SelectedIndex - 1;
+                int restockedQty;
+
+                int.TryParse(restockedQtyTextBox.Text, out restockedQty);
+                if (restockedQty <= 0 )
+                {
+                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                    statusLabel.Text = "Please reenter an integer restocked qty > 0 and less than available qty";
+                }
+                else
+                {
+                    retailProductList[index].RestockedQty = restockedQty;
+                    statusLabel.Font = new Font("Microsoft Sans Serif", 10);
+                    statusLabel.Text = "Incremented Restocked Qty for Item with Product Code " + retailProductList[index].ProductCode;
+                    UpdateListBox();
+                }
+            }
+        }
+
+        private void deleteSelectedItemButton_Click(object sender, EventArgs e)
+        {
+            if (retailStockListBox.SelectedIndex <= 0)
+            {
+                statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                statusLabel.Text = "Please select a retail product item to delete";
+            }
+            else
+            {
+                // for simplicity, the mapping between the index on the listbox and the list is done here:
+                int index = retailStockListBox.SelectedIndex - 1;
+                statusLabel.Font = new Font("Microsoft Sans Serif", 12);
+                statusLabel.Text = "Deleted Item with Product Code " + retailProductList[index].ProductCode;
+                retailProductList.RemoveAt(index);
+                UpdateListBox();
             }
         }
     }
