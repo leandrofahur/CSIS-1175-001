@@ -166,6 +166,7 @@
             this.updateSoldQtyButton.TabIndex = 3;
             this.updateSoldQtyButton.Text = "Update Sold Qty For Selected Item";
             this.updateSoldQtyButton.UseVisualStyleBackColor = false;
+            this.updateSoldQtyButton.Click += new System.EventHandler(this.updateSoldQtyButton_Click);
             // 
             // sortButton
             // 
@@ -242,11 +243,12 @@
             // 
             this.statusLabel.AutoSize = true;
             this.statusLabel.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.statusLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.statusLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.statusLabel.Location = new System.Drawing.Point(361, 489);
             this.statusLabel.Name = "statusLabel";
             this.statusLabel.Padding = new System.Windows.Forms.Padding(10);
-            this.statusLabel.Size = new System.Drawing.Size(468, 49);
+            this.statusLabel.Size = new System.Drawing.Size(470, 51);
             this.statusLabel.TabIndex = 4;
             this.statusLabel.Text = "Operation Status Update Displayed Here";
             // 
