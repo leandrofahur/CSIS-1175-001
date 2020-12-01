@@ -1,36 +1,32 @@
 Product Code,Product Name,Starting Qty,Min Qty,Sold Qty,Restocked Qty,Unit Price
-85-0521031,Shampoo,35,9,0,0,289
-68-8315569,Conditioner,2,6,0,0,289
-27-8812415,Dandruff Shampoo,3,10,0,0,499
-51-7074017,Body Wash,100,9,0,0,1
-61-9280111,Bar Soap,98,5,0,0,4
-29-0793220,Hand Soap,79,5,0,0,569
-31-1737425,Razor Blades,31,6,0,0,6
-18-4942228,Shaving Cream,27,7,0,0,124
-12-9819201,Feminine Products,9,6,0,0,549
-14-3114598,Women's Deodorant,96,6,0,0,199
-00-5137328,Men's Deodorant,68,7,0,0,2
-84-4242827,Toothpaste,73,8,0,0,1
-47-7101192,Toothbrushes,53,6,0,0,94
-16-8978488,Floss,97,7,0,0,179
-22-3320430,Lotion,64,7,0,0,319
-24-2046649,Excema Cream,94,9,0,0,1079
-53-2177802,Hydrocortizone Cream,73,9,0,0,419
-10-9378660,Diapers,86,5,0,0,2754
-55-1555798,Wipes,46,7,0,0,1449
-80-8933959,Baby Wash,27,5,0,0,4
-11-0566265,Lightbulbs,3,6,0,0,599
-76-1671038,Dish Soap,38,8,0,0,187
-05-7630078,Laundry Detergent,61,8,0,0,1034
-93-6963020,Dishwasher Detergent,99,8,0,0,344
-34-7426685,Air Filters,90,8,0,0,16
-58-0832802,Vacuum Bags,35,7,0,0,549
-45-0767367,All Purpose Cleaner,5,7,0,0,354
-49-2584646,Toilet Paper,48,6,0,0,68
-74-6484488,Paper Towels,91,7,0,0,1
-03-7977826,Tissues,19,5,0,0,3
-76-6283464,Chapsticks,22,9,0,0,2
-37-7133522,Pens,71,9,0,0,4
-38-7098446,Cat Food,90,10,0,0,1279
-42-0451242,Cat Litter,21,9,0,0,749
-85-8935417,Trash Bags,89,5,0,0,4
+85-0521031,Shampoo,35,9,14,0,R$ 289,00
+55-1555798,Wipes,46,7,0,0,R$ 1.449,00
+68-8315569,Conditioner,2,6,0,5,R$ 289,00
+27-8812415,Dandruff Shampoo,3,10,0,0,R$ 499,00
+51-7074017,Body Wash,100,9,0,0,R$ 1,00
+61-9280111,Bar Soap,98,5,0,0,R$ 4,00
+31-1737425,Razor Blades,31,6,0,0,R$ 6,00
+18-4942228,Shaving Cream,27,7,0,0,R$ 124,00
+14-3114598,Women's Deodorant,96,6,0,0,R$ 199,00
+00-5137328,Men's Deodorant,68,7,0,0,R$ 2,00
+16-8978488,Floss,97,7,0,0,R$ 179,00
+22-3320430,Lotion,64,7,0,0,R$ 319,00
+24-2046649,Excema Cream,94,9,0,0,R$ 1.079,00
+53-2177802,Hydrocortizone Cream,73,9,0,0,R$ 419,00
+10-9378660,Diapers,86,5,0,0,R$ 2.754,00
+85-8935417,Trash Bags,89,5,0,0,R$ 4,00
+42-0451242,Cat Litter,21,9,0,0,R$ 749,00
+11-0566265,Lightbulbs,3,6,0,0,R$ 599,00
+76-1671038,Dish Soap,38,8,0,0,R$ 187,00
+05-7630078,Laundry Detergent,61,8,0,0,R$ 1.034,00
+93-6963020,Dishwasher Detergent,99,8,0,0,R$ 344,00
+34-7426685,Air Filters,90,8,0,0,R$ 16,00
+58-0832802,Vacuum Bags,35,7,0,0,R$ 549,00
+45-0767367,All Purpose Cleaner,5,7,0,0,R$ 354,00
+49-2584646,Toilet Paper,48,6,0,0,R$ 68,00
+74-6484488,Paper Towels,91,7,0,0,R$ 1,00
+03-7977826,Tissues,19,5,0,0,R$ 3,00
+76-6283464,Chapsticks,22,9,0,0,R$ 2,00
+37-7133522,Pens,71,9,0,0,R$ 4,00
+38-7098446,Cat Food,90,10,0,0,R$ 1.279,00
+80-8933959,Baby Wash,27,5,0,0,R$ 4,00

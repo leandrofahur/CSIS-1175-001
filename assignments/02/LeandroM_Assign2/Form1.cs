@@ -44,14 +44,82 @@ namespace LeandroM_Assign2
             statusLabel.TextAlign = ContentAlignment.MiddleCenter;
         }
 
+        // Create restock oportunity button:
+        // ps.: even though I changed the name of the button, still open this metod
         private void button7_Click(object sender, EventArgs e)
         {
-
+            // accumulator to display the number of rows are going to be written in the file
+            int acc = 0;
+            try
+            {
+                // create the streamer and write the file in the folder /bin/debug
+                using (StreamWriter streamWriter = new StreamWriter("restock_report.csv"))
+                {
+                    // create the headline for the output file:
+                    string headLine = string.Format("{0},{1},{2},{3}", "Product Code", "Product Name", "Min Qty", "Available Price");
+                    streamWriter.WriteLine(headLine);
+                    foreach (RetailProduct retailProduct in retailProductList)
+                    {
+                        if (retailProduct.SoldQty > 0)
+                        {
+                            // configure the row with a comma separated way:
+                            string row = string.Format("{0},{1},{2},{3}", retailProduct.ProductCode, retailProduct.ProductName, retailProduct.MinQty, retailProduct.AvailableQty);
+                            streamWriter.WriteLine(row);
+                            acc += 1;
+                        }
+                    }
+                    statusLabel.Text = "Saved " + acc + " records into the restock needed output file";
+                }
+            }
+            catch (IOException ex)
+            {
+                // catch exceptions with the IO 
+                MessageBox.Show("Exception Thrown: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                // generic exception
+                MessageBox.Show("Exception Thrown: " + ex.Message);
+            }
         }
 
+        // Create sales oportunity button:
+        // ps.: even though I changed the name of the button, still open this metod
         private void button6_Click(object sender, EventArgs e)
         {
-
+            // accumulator to display the number of rows are going to be written in the file
+            int acc = 0;
+            try
+            {
+                // create the streamer and write the file in the folder /bin/debug
+                using (StreamWriter streamWriter = new StreamWriter("sales_report.csv"))
+                {
+                    // create the headline for the output file:
+                    string headLine = string.Format("{0},{1},{2},{3},{4}", "Product Code", "Product Name", "Sold Qty", "Unit Price", "Sales");
+                    streamWriter.WriteLine(headLine);
+                    foreach (RetailProduct retailProduct in retailProductList)
+                    {
+                        if(retailProduct.AvailableQty < retailProduct.MinQty)
+                        {
+                            // configure the row with a comma separated way:
+                            string row = string.Format("{0},{1},{2},{3},{4}", retailProduct.ProductCode, retailProduct.ProductName, retailProduct.SoldQty, retailProduct.UnitPrice.ToString("C"), retailProduct.Sales.ToString("C"));
+                            streamWriter.WriteLine(row);
+                            acc += 1;
+                        }
+                    }
+                    statusLabel.Text = "Saved " + acc + " records into the output retailneeded output file";
+                }
+            }
+            catch (IOException ex)
+            {
+                // catch exceptions with the IO 
+                MessageBox.Show("Exception Thrown: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                // generic exception
+                MessageBox.Show("Exception Thrown: " + ex.Message);
+            }
         }
 
         // Loads the .csv file into the List private attribute:
@@ -209,7 +277,7 @@ namespace LeandroM_Assign2
                     foreach (RetailProduct retailProduct in retailProductList)
                     {
                         // configure the row with a comma separated way:
-                        string row = string.Format("{0},{1},{2},{3},{4},{5},{6}", retailProduct.ProductCode, retailProduct.ProductName, retailProduct.StartingQty, retailProduct.MinQty, retailProduct.SoldQty, retailProduct.RestockedQty, retailProduct.UnitPrice);
+                        string row = string.Format("{0},{1},{2},{3},{4},{5},{6}", retailProduct.ProductCode, retailProduct.ProductName, retailProduct.StartingQty, retailProduct.MinQty, retailProduct.SoldQty, retailProduct.RestockedQty, retailProduct.UnitPrice.ToString("C"));
                         streamWriter.WriteLine(row);
                     }
                     statusLabel.Text = "Saved " + retailProductList.Count + " records into the output retail stock file";
